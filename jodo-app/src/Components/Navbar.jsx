@@ -4,6 +4,7 @@ import { Link, NavLink } from "react-router-dom";
 import {  Menu } from 'lucide-react';
 import {motion} from "framer-motion"
 
+
 const Navbarmenu = [
   {
     id:1,
@@ -59,6 +60,7 @@ function Navbar(){
             </li>
           ))}
           <button className="primary-btn">Sign In</button>
+          
         </ul>
       </div>
 
