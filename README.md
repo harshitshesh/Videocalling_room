@@ -61,7 +61,7 @@ Don't forget to star  the project if you like it!
 
 For feedback, suggestions, or collaboration – connect with me:  
  harshitshesh78@gmail.com  
- [LinkedIn]((https://www.linkedin.com/in/harshit-shesh))  
+ [LinkedIn] (https://www.linkedin.com/in/harshit-shesh)
 
 
 ---
